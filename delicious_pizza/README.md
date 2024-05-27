@@ -1,6 +1,6 @@
 ### DELICIOUS PIZZA:
 
-Hi There, Welcome to Delicious Pizza! I am happy that you are here the pizza I made in github.
+Hi There, Welcome to Delicious Pizza! I am happy that you are here to taste the first pizza I made in github.
 This repository features an in-depth analysis of pizza sales data, displayed through a visually appealing and professional dashboard. The project harnesses the capabilities of Excel and Power BI to deliver insightful and interactive data visualizations.
 
 ## Project Overview
@@ -33,7 +33,7 @@ Provided a detailed breakdown of sales by region, time period, and customer demo
 To explore the Delicious Pizza Sales Dashboard, follow these steps:
 
 **Open the File:**
-Click the file: [HERE]()
+Click the file: [HERE](https://github.com/geetanads/PowerBI_project/blob/main/delicious_pizza/Delicious_Pizza.pdf)
 
 **Explore the Power BI Dashboard:**
 Interact with the various visualizations and filters to gain insights into the pizza sales data.
